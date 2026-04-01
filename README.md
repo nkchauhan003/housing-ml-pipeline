@@ -19,7 +19,7 @@ Build a regression model that predicts **house prices** based on features such a
 
 ---
 
-🧰 Tech Stack
+## Tech Stack
 
 * **pandas:** Data loading & manipulation
 * **numpy:** Numerical operations
@@ -30,7 +30,7 @@ Build a regression model that predicts **house prices** based on features such a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 housing-ml-pipeline/
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset is a CSV file (`housing.csv`) containing housing features and target price.
 
@@ -106,7 +106,7 @@ area,bedrooms,bathrooms,stories,parking,age,price
 
 ---
 
-## 🔍 Workflow
+## Workflow
 
 ### 1. Data Loading
 
